@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-stats.vercel.app/api?username=Dmitry0125&show_icons=true&hide=prs,issues,&count_private=true&theme=tokyonight" alt="MiratBikkuzin's GitHub stats" /></a>
+<a href="http://www.github.com/Dmitry0125"><img src="https://github-readme-stats.vercel.app/api?username=Dmitry0125&show_icons=true&hide=prs,issues,&count_private=true&theme=tokyonight" alt="Dmitry0125's GitHub stats" /></a>
 
-<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitry0125&hide_border=true&theme=tokyonight" /></a>
+<a href="http://www.github.com/Dmitry0125"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitry0125&hide_border=true&theme=tokyonight" /></a>
